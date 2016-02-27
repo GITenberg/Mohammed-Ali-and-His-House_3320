@@ -1,0 +1,42 @@
+_repo: Mohammed-Ali-and-His-House_3320
+contributor:
+  translator:
+    agent_name: Coleman, Chapman, Mrs.
+    aliases:
+    - Coleman, Ann Mary Butler Crittenden
+    - Coleman, Mrs. Chapman
+    birthdate: 1813
+    deathdate: 1891
+    gutenberg_agent_id: '1175'
+    url: http://www.gutenberg.org/2009/agents/1175
+creator:
+  author:
+    agent_name: Mühlbach, L. (Luise)
+    aliases:
+    - Mundt, Klara Müller
+    - Mundt, Klara Muller
+    - Muhlbach, L. (Luise)
+    - Mundt, Clara
+    - Mühlbach, Luise
+    - Mühlbach, Louise
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '830'
+    url: http://www.gutenberg.org/2009/agents/830
+    wikipedia: http://de.wikipedia.org/wiki/Luise_M%C3%BChlbach
+description: pt. 1. Years of youth -- pt. 2. Paradise and Hell -- pt. 3. The Mamelukes
+  -- pt. 4. The viceroy.
+gutenberg_issued: '2002-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Egypt -- History -- Mohammed Ali, 1805-1849 -- Fiction'
+- !lcsh 'Muhammad Ali Basha, Governor of Egypt, 1769-1849 -- Fiction'
+title: Mohammed Ali and His House
+url: http://www.gutenberg.org/ebooks/3320
